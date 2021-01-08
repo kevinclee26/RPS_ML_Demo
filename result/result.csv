@@ -1,100 +1,100 @@
-s,s,Tie
-p,r,Win
-s,r,Lose
-p,r,Win
-s,s,Tie
-r,r,Tie
-s,r,Lose
-s,p,Win
-p,s,Lose
-p,s,Lose
-r,p,Lose
-r,p,Lose
-p,s,Lose
-p,r,Win
-r,p,Lose
-s,p,Win
-r,r,Tie
-s,p,Win
-r,r,Tie
-r,r,Tie
-r,r,Tie
-p,r,Win
-s,p,Win
-p,s,Lose
-p,r,Win
-r,p,Lose
-r,r,Tie
-s,r,Lose
-p,r,Win
+p,p,Tie
+s,p,Player 1 Win
+s,r,Player 1 Lose
+s,r,Player 1 Lose
 r,r,Tie
 s,s,Tie
-s,s,Tie
-s,r,Lose
-s,s,Tie
-p,r,Win
-s,r,Lose
-p,r,Win
-s,s,Tie
+p,s,Player 1 Lose
+s,p,Player 1 Win
+p,r,Player 1 Win
+s,p,Player 1 Win
+p,s,Player 1 Lose
+r,p,Player 1 Lose
+r,p,Player 1 Lose
+s,p,Player 1 Win
+p,s,Player 1 Lose
+s,p,Player 1 Win
+p,s,Player 1 Lose
+p,s,Player 1 Lose
+r,s,Player 1 Win
+r,p,Player 1 Lose
+p,s,Player 1 Lose
+p,s,Player 1 Lose
+r,p,Player 1 Lose
 r,r,Tie
 p,p,Tie
+r,s,Player 1 Win
+s,r,Player 1 Lose
+p,r,Player 1 Win
+r,s,Player 1 Win
+r,s,Player 1 Win
+p,r,Player 1 Win
+r,s,Player 1 Win
+s,r,Player 1 Lose
+r,p,Player 1 Lose
+p,p,Tie
+s,p,Player 1 Win
+r,s,Player 1 Win
+s,s,Tie
+s,s,Tie
+r,p,Player 1 Lose
+s,s,Tie
+p,r,Player 1 Win
 r,r,Tie
-p,r,Win
+s,p,Player 1 Win
+r,s,Player 1 Win
+s,p,Player 1 Win
+r,r,Tie
+s,r,Player 1 Lose
+r,r,Tie
+s,p,Player 1 Win
+r,p,Player 1 Lose
+p,r,Player 1 Win
+p,r,Player 1 Win
+p,s,Player 1 Lose
+r,r,Tie
+p,s,Player 1 Lose
+p,r,Player 1 Win
+s,p,Player 1 Win
+r,s,Player 1 Win
+r,s,Player 1 Win
+s,r,Player 1 Lose
+p,s,Player 1 Lose
+r,r,Tie
+s,s,Tie
+r,s,Player 1 Win
+s,s,Tie
+p,r,Player 1 Win
+s,p,Player 1 Win
+r,p,Player 1 Lose
+p,r,Player 1 Win
+s,s,Tie
+r,s,Player 1 Win
+p,s,Player 1 Lose
+r,p,Player 1 Lose
+r,s,Player 1 Win
+s,r,Player 1 Lose
 r,r,Tie
 p,p,Tie
-r,p,Lose
-p,s,Lose
-s,p,Win
-r,r,Tie
-s,r,Lose
-r,p,Lose
-s,p,Win
-r,r,Tie
-r,p,Lose
-p,p,Tie
-p,r,Win
-p,r,Win
-s,r,Lose
-s,p,Win
-p,r,Win
-s,p,Win
-r,p,Lose
-s,p,Win
 s,s,Tie
 p,p,Tie
-p,s,Lose
-r,p,Lose
-r,p,Lose
+r,r,Tie
+p,r,Player 1 Win
+s,p,Player 1 Win
 p,p,Tie
-p,s,Lose
-r,s,Win
-p,s,Lose
-r,p,Lose
-r,s,Win
-p,s,Lose
-s,p,Win
-r,s,Win
-r,s,Win
-r,p,Lose
-r,r,Tie
-r,r,Tie
-p,r,Win
-s,r,Lose
-p,r,Win
-p,s,Lose
-s,p,Win
 p,p,Tie
-s,p,Win
-r,s,Win
-s,s,Tie
-p,r,Win
-s,r,Lose
-p,r,Win
-r,s,Win
-r,p,Lose
-r,s,Win
-s,r,Lose
-p,r,Win
-s,s,Tie
-p,r,Win
+p,r,Player 1 Win
+p,r,Player 1 Win
+p,p,Tie
 r,r,Tie
+s,p,Player 1 Win
+r,s,Player 1 Win
+s,p,Player 1 Win
+p,r,Player 1 Win
+r,r,Tie
+r,s,Player 1 Win
+s,r,Player 1 Lose
+r,s,Player 1 Win
+s,p,Player 1 Win
+r,r,Tie
+p,p,Tie
